@@ -1,5 +1,6 @@
 # TechHub - Tienda Online
-
+Diagrama arquitectura 
+![Arquitectura TechHub](./docs/arquitectura_techhub.png)
 Esta es una tienda funcional con estética Cyberpunk/Neón.
 
 Tecnologías utilizadas
